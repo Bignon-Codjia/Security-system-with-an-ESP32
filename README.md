@@ -29,7 +29,7 @@ This project utilizes **Task Pinning** to ensure that network latency never comp
 
 ---
 
-## 🛠️ Hardware Requirements
+##  Hardware Requirements
 
 * **Controller:** ESP32 DevKit V1
 * **Sensor:** IR Motion Sensor (PIR) or Infrared Obstacle Sensor
