@@ -1,7 +1,7 @@
 # Security-system-with-an-ESP32
 ![Platform: ESP32](https://img.shields.io/badge/Platform-ESP32-blue?style=for-the-badge&logo=espressif)
 ![Language: C++](https://img.shields.io/badge/Language-C++-green?style=for-the-badge&logo=c%2B%2B)
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)  do the same for Html, CSS and Java *
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
 
 ##  Key Features
 
